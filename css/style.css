@@ -1,0 +1,51 @@
+.headerimage{
+ width:100%;
+ 
+}
+.insideimages{
+  text-align:center;
+  
+}
+.insideimage{
+  width:100%;
+}
+body{
+  border: white solid;
+  background-color:lightblue;
+  text-align:center;
+}
+h1{
+  display:block;
+  color:navy;
+  background-color:white;
+  font-size:250%;
+}
+
+.work session{
+  background-color: white;
+}
+
+.concept{
+  display:block;
+  background-color:lightgrey;
+    color:navy;
+  
+}
+h2{
+  font-size:200%;
+}
+.idea{
+  background-color:grey;
+  color:white;
+  font-size:125%;
+  
+}
+.supporting{
+  text-align:left;
+  display:block;
+  background-color:lightgrey;
+  font-size:100%;
+}
+.li{
+  font-size:75%;
+}
